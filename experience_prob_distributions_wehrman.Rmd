@@ -116,5 +116,4 @@ Write down your observations and reasoning.
 
 
 * Write your answer below
-I personally think that it comes from the same data set. Even though the mean and deviation is a little different, they're is a lot of overlap on the figure. Along with this, the smaller deviation of the red figure limits the outliers making the graph thinner. I think due to random numbers and limitations, it causes the graphs to me different, however, I think they are close enough to say its from the same data set.
-
+I think that these data sets are different. They look a lot like the figures from above and they have a different mean and range.
